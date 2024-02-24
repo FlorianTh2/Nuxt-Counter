@@ -1,6 +1,6 @@
-# Next-Counter
+# Nextjs-React-Query-Workshop
 
-Project to create a counter in the next-framework. Additional integration of react-query ,redux-toolkit and some defaults.
+Workshop Next.js with React-Query (Tanstack Query): How to get the best of both worlds (and how to integrate Redux-Toolkit).
 
 ## Prerequisites
 
@@ -9,9 +9,9 @@ Project to create a counter in the next-framework. Additional integration of rea
 
 ## Getting Started
 
-`$ git clone git@github.com:FlorianTh2/Next-Counter.git`
+`$ git clone git@github.com:florianthom/Nextjs-React-Query-Workshop.git`
 
-`$ cd ./Next-Counter`
+`$ cd ./Nextjs-React-Query-Workshop`
 
 `$ yarn install`
 
